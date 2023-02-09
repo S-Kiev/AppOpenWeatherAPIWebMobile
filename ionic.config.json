@@ -1,0 +1,7 @@
+{
+  "name": "obligatorio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

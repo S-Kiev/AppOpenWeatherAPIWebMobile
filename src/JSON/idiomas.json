@@ -1,0 +1,19 @@
+[
+    {
+       "Idioma" : "Español",
+       "Valor" : "es"
+    },
+    {
+        "Idioma" : "Ingles",
+        "Valor" : "en"
+    },
+    {
+        "Idioma" : "Portuges",
+        "Valor" : "pt_br"
+    },
+    {
+        "Idioma" : "Japones",
+        "Valor" : "ja"
+    }
+
+]

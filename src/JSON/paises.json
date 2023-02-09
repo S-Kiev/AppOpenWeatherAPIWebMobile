@@ -1,0 +1,42 @@
+ [
+    {
+        "Pais" : "Argentina",
+        "Codigo" : "AR"
+    },
+    {
+        "Pais" : "Uruguay",
+        "Codigo" : "UY"
+    },
+    {
+        "Pais" : "Brasil",
+        "Codigo" : "BR"
+    },
+    {
+        "Pais" : "España",
+        "Codigo" : "ES"
+    },
+    {
+        "Pais" : "Paraguay",
+        "Codigo" : "PY"
+    },
+    {
+        "Pais" : "Mexico",
+        "Codigo" : "MX"
+    },
+    {
+        "Pais" : "Venezuela",
+        "Codigo" : "VE"
+    },
+    {
+        "Pais" : "Estado Unidos",
+        "Codigo" : "US"
+    },
+    {
+        "Pais" : "Japon",
+        "Codigo" : "JP"
+    }
+ ]
+
+
+
+ 

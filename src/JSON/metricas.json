@@ -1,0 +1,14 @@
+[
+    {
+        "Grados" : "Kelvin",
+        "Unidades" : "standard"
+    },
+    {
+        "Grados" : "Freanheit",
+        "Unidades" : "imperial"
+    },
+    {  
+        "Grados" : "Celcius",
+        "Unidades" : "metric"
+    }
+]
